@@ -1,4 +1,4 @@
-## Olá eu sou a Jéssica Lopes, estudante de desenvolvento de software 👩‍💻
+## Olá eu sou a Jéssica Lopes, estudante de desenvolvimento de software 👩‍💻
 
 - 🌱 Estudando React.Js, React Native, TypeScript e Node.Js.
 
