@@ -1,8 +1,8 @@
-## Olá eu sou a Jéssica Lopes, estudante de desenvolvimento de software 👩‍💻
+## Olá eu sou a Jéssica Lopes, estudante de desenvolvimento Web Full Stack na Trybe 👩‍💻
 
-- 🌱 Estudando React.Js, React Native, TypeScript e Node.Js.
+- 🌱 Contadora por formação, Empreendedora há + de 9 anos e Mentora de afiliados digitais desde março/2022
 
-- ⚡ Sou Contadora por formação, me encontro migrando de profissão pois me apaixonei pela tecnologia, em especial a parte de frontend que tem todo meu amor 😍
+- ⚡ Já criei alguns apps com React Native e agora decidi mergulhar de vez nesse mundo da programação estudando na melhor escola de desenvolvimento Web, a Trybe.
 
 <div align="center">
   <a href="https://github.com/jessicalopesdev">
