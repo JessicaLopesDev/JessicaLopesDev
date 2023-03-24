@@ -1,6 +1,6 @@
 ## Olá eu sou a Jéssica Lopes, estudante de desenvolvimento Web Full Stack na Trybe 👩‍💻
 
-- 🌱 Contadora por formação, Empreendedora há + de 9 anos e Mentora de afiliados digitais desde março/2022
+- 🌱 Contadora por formação, Empreendedora há + de 9 anos, mentora e consultora digital desde março/2022
 
 - ⚡ Já criei alguns apps com React Native e agora decidi mergulhar de vez nesse mundo da programação estudando na melhor escola de desenvolvimento Web, a Trybe.
 
