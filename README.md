@@ -2,7 +2,7 @@
 
 - 🌱 Contadora por formação, Empreendedora há + de 9 anos, mentora e consultora digital desde março/2022
 
-- ⚡ Já criei alguns apps com React Native e agora decidi mergulhar de vez nesse mundo da programação estudando na melhor escola de desenvolvimento Web, a Trybe.
+- ⚡ Intrutora Summer de desenvolvimento Web na Trybe.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
