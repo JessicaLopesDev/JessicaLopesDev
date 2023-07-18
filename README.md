@@ -1,8 +1,8 @@
-## Olá eu sou a Jéssica Lopes, estudante de desenvolvimento Web Full Stack na Trybe 👩‍💻
+## Olá eu sou a Jéssica Lopes, desenvolvedora Web Full Stack 👩‍💻
 
-- 🌱 Contadora por formação, Empreendedora há + de 9 anos, mentora e consultora digital desde março/2022
+- 🌱 Contadora por formação, fui Empreendedora por + de 9 anos, mentora e consultora digital por 1 ano até começar a me aprofundar na área que eu mais sou apaixonada: a Tecnologia.
 
-- ⚡ Intrutora Summer de desenvolvimento Web na Trybe.
+- ⚡ Hoje, além de estudar Ciência da Computação sou Intrutora Summer de desenvolvimento Web na Trybe.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
