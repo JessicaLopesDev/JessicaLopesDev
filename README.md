@@ -3,7 +3,7 @@
 - 🌱 Contadora por formação, fui Empreendedora por + de 9 anos, mentora e consultora digital por 1 ano até focar 100% na área que eu mais sou apaixonada: a Tecnologia.
 
 - ⚡ Hoje, sou desenvolvedora fullstack e Intrutora Summer de desenvolvimento Web na Trybe além de estudar Ciência da Computação.
-
+<link rel="stylesheet" href="devicon.min.css">
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
