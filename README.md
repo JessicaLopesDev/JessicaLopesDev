@@ -1,4 +1,4 @@
-## Olá eu sou a Jéssica Lopes, desenvolvedora Web Full Stack 👩‍💻
+## Olá eu sou a Jéssica Lopes, Desenvolvedora Web FullStack 👩‍💻
 
 - 🌱 Contadora por formação, fui Empreendedora por + de 9 anos, mentora e consultora digital até focar 100% na área que eu mais sou apaixonada: a Tecnologia.
 
