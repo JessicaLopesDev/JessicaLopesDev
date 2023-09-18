@@ -1,6 +1,8 @@
 ## Olá eu sou a Jéssica Lopes, Desenvolvedora Web FullStack 👩‍💻
 
-- ⚡ Desenvolvedora FullStack e Intrutora Summer de Desenvolvimento Web na Trybe além de estudar Ciência da Computação.
+- ⚡ Desenvolvedora FullStack e Intrutora Summer de Desenvolvimento Web na Trybe.
+- ⚡ Atualmente estou estudando e me apaixonando por Java.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
