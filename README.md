@@ -1,6 +1,8 @@
 ## Olá eu sou a Jéssica Lopes, Desenvolvedora Web FullStack 👩‍💻
 
-- ⚡ Tenho experiencia em vários projetos usando JavaScript, HTML, CSS, Git, GitHub, React.Js, React Native, React Hooks, Context API, Redux, Styled Components, Tailwind, TypeScript, Docker, SQL, ORM Sequelize, Autenticação, Node.Js, Express, Python, Java, POO e SOLID. 
+- ⚡ Busco uma oportunidade como Desenvolvedora Front-End, Back-End ou FullStack para colaborar com meu conhecimento e me desenvolver profissionalmente.
+- ⚡ Linguagens que tenho experiência: Javascript(React e Node) e Java.
+- ⚡ Atuei como estudante e instrutora em vários projetos usando JavaScript, HTML, CSS, Git, GitHub, React.Js, React Native, React Hooks, Context API, Redux, Styled Components, Tailwind, TypeScript, Docker, SQL, ORM Sequelize, Autenticação, Node.Js, Express, Python, Java, POO e SOLID. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
