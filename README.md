@@ -1,7 +1,6 @@
 ## Olá eu sou a Jéssica Lopes, Desenvolvedora Web FullStack 👩‍💻
 
-- ⚡ Desenvolvedora Web e Intrutora Summer de Front-End na Trybe.
-- ⚡ Atualmente estou estudando e me apaixonando por Java.
+- ⚡ Tenho experiencia em vários projetos usando JavaScript, HTML, CSS, Git, GitHub, React.Js, React Native, React Hooks, Context API, Redux, Styled Components, Tailwind, TypeScript, Docker, SQL, ORM Sequelize, Autenticação, Node.Js, Express, Python, Java, POO e SOLID. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
